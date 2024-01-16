@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\进阶项目\cpp-special_projects\USB_Contents\USB_Contents\main.cpp(106,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  USB_Contents.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\进阶项目\cpp-special_projects\USB_Contents\Release\USB_Contents.exe
